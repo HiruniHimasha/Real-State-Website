@@ -1,5 +1,5 @@
 import React from 'react'
-import { useDarkMode } from '../components/DarkModeCONTEXT.JSX'
+import { useDarkMode } from '../components/DarkModeContext.jsx'
 import Aos from 'aos';
 import 'aos/dist/aos.css'
 import { Link } from 'react-scroll'

@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { Link } from 'react-scroll'  // Make sure this import is correct
 import { FaXmark, FaBars } from 'react-icons/fa6'
 import logo from '../assets/images/logo.png'
-import { useDarkMode } from '../components/DarkModeCONTEXT.JSX'
+import { useDarkMode } from '../components/DarkModeContext.jsx'
 import { FaPhoneAlt, FaUserCircle } from 'react-icons/fa'
 
 const Header = () => {

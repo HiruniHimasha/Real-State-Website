@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { useDarkMode } from '../components/DarkModeCONTEXT.JSX'
+import { useDarkMode } from '../components/DarkModeContext.jsx'
 import { property } from '../components/export'
 import { FaBath, FaShareAlt, FaBed, FaUserCircle, FaPlus, FaMapMarkerAlt, FaVideo, FaCamera, FaHeart } from "react-icons/fa"
 import { MdSpaceDashboard } from 'react-icons/md'

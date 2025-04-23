@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { service } from '../components/export'
-import { useDarkMode } from '../components/DarkModeCONTEXT.JSX'
+import { useDarkMode } from '../components/DarkModeContext.jsx'
 import Aos from 'aos';
 import 'aos/dist/aos.css'
 
